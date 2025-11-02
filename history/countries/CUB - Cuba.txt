@@ -1,7 +1,7 @@
 ﻿capital = 315
 
 oob = "CUB_1936"
-
+set_research_slots = 0
 # Starting tech
 set_technology = {
 	infantrygun1_tech = 1
