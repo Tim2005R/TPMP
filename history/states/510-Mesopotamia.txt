@@ -1,36 +1,18 @@
 state = {
 	id = 510
 	name = "STATE_510"
-	manpower = 1497169
+	manpower = 1
 
-	resources = {
-		oil = 20
-		rubber = 30
-	}
 	
-	state_category = rural
+	
+	state_category = wasteland
 
 	history = {
 
 		owner = NEU
 		add_core_of = NEU
 
-		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
-		}
-
-		victory_points = {
-			11007 2 
-		}
-
-		victory_points = {
-			12964 1 
-		}
-
-		victory_points = {
-			1449 3
-		}
+		
 		
 	}
 

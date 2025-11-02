@@ -1,25 +1,15 @@
 state = {
 	id = 889
 	name = "STATE_889"
-	manpower = 708190
-	state_category = pastoral
+	manpower = 1
+	state_category = wasteland
 
-	resources = {
-		tungsten = 20
-	}
+	
 
 	history = {
 
 		owner = NEU
 		add_core_of = NEU
-
-		buildings = {
-			infrastructure = 1
-		}
-
-		victory_points = {
-			191 2 # Elizabehville
-		}
 
 	}
 	
@@ -27,6 +17,5 @@ state = {
 		191 1516 1817 1968 4515 12795 12907 
 	}
 
-	buildings_max_level_factor = 1.000
 	local_supplies = 0.000
 }

@@ -2,8 +2,7 @@ state = {
 	id = 971
 	name = "STATE_971" # Northern Dobruja
 	manpower = 490000
-	resources = {
-	}
+	
 
 	state_category = city
 
